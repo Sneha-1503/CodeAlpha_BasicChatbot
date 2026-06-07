@@ -44,5 +44,3 @@ You: bye
 Bot: Goodbye! Have a nice day 😊
 
 ---
-
-## 📂 Project Structure
